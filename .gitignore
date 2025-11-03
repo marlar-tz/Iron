@@ -1,0 +1,7 @@
+# Build folders
+bin/
+obj/
+
+# NuGet packages
+project.assets.json
+project.nuget.cache
